@@ -1,0 +1,2 @@
+Film= dfgh   Salon= Salon1   Seans= 11 00 - 13 00
+Film= dfgh   Salon= Salon4   Seans= 18 00 - 20 00

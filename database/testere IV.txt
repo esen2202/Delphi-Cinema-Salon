@@ -1,0 +1,2 @@
+Film= testere IV   Salon= Salon5   Seans= 14 00 - 16 00
+Film= testere IV   Salon= Salon4   Seans= 18 00 - 20 00
